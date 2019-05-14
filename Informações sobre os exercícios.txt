@@ -1,0 +1,4 @@
+Exercício 1 - imprime os valores abaixo da diagonal principal de uma matriz 10x10.
+Exercício 2 - lê o arquivo "dados para poupança programada" e faz uma simulação com os valores utilizando as regras de cálculo da poupança.
+Exercício 3 - lê informações do funcionário, separa os 10 que possuem menor salario, todos que possuem salário superior a 10 salários mínimos e aqueles que possuem 5% para mais ou para menos da média dos salários e armazena todas essas informações em um arquivo txt.
+Exercício 4 - lê os dados dos clientes e permite fazer uma busca por código.
